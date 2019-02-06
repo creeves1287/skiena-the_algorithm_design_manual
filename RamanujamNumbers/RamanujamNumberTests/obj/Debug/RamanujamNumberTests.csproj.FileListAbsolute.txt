@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\RamanujamNumberTests.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\RamanujamNumberTests.pdb
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\RamanujamNumbers.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\RamanujamNumbers.pdb
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\obj\Debug\RamanujamNumberTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\obj\Debug\RamanujamNumberTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\obj\Debug\RamanujamNumberTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\obj\Debug\RamanujamNumberTests.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumberTests\obj\Debug\RamanujamNumberTests.pdb

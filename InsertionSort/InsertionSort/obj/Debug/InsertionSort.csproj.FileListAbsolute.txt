@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Skiena\InsertionSort\InsertionSort\bin\Debug\InsertionSort.dll
+C:\Users\reeves\source\repos\Skiena\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\Users\reeves\source\repos\Skiena\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\InsertionSort\InsertionSort\obj\Debug\InsertionSort.dll
+C:\Users\reeves\source\repos\Skiena\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb

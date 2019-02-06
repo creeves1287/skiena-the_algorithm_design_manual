@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumbers\bin\Debug\RamanujamNumbers.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumbers\bin\Debug\RamanujamNumbers.pdb
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumbers\obj\Debug\RamanujamNumbers.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumbers\obj\Debug\RamanujamNumbers.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumbers\obj\Debug\RamanujamNumbers.dll
+C:\Users\reeves\source\repos\Skiena\RamanujamNumbers\RamanujamNumbers\obj\Debug\RamanujamNumbers.pdb
