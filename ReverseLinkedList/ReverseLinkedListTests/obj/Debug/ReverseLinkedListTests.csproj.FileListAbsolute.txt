@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\ReverseLinkedListTests.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\ReverseLinkedListTests.pdb
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\ReverseLinkedList.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\ReverseLinkedList.pdb
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\obj\Debug\ReverseLinkedListTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\obj\Debug\ReverseLinkedListTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\obj\Debug\ReverseLinkedListTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\obj\Debug\ReverseLinkedListTests.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedListTests\obj\Debug\ReverseLinkedListTests.pdb

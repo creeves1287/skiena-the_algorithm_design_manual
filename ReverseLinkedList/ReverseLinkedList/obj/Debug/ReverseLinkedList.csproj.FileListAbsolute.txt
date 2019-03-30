@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedList\bin\Debug\ReverseLinkedList.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedList\bin\Debug\ReverseLinkedList.pdb
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.dll
+C:\Users\reeves\source\repos\Skiena\ReverseLinkedList\ReverseLinkedList\obj\Debug\ReverseLinkedList.pdb
