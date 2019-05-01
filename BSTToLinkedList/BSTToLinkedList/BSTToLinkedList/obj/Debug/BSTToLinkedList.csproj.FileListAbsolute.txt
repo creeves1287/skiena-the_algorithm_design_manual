@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Skiena\BSTToLinkedList\BSTToLinkedList\BSTToLinkedList\bin\Debug\BSTToLinkedList.dll
+C:\Users\reeves\source\repos\Skiena\BSTToLinkedList\BSTToLinkedList\BSTToLinkedList\bin\Debug\BSTToLinkedList.pdb
+C:\Users\reeves\source\repos\Skiena\BSTToLinkedList\BSTToLinkedList\BSTToLinkedList\obj\Debug\BSTToLinkedList.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\BSTToLinkedList\BSTToLinkedList\BSTToLinkedList\obj\Debug\BSTToLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\BSTToLinkedList\BSTToLinkedList\BSTToLinkedList\obj\Debug\BSTToLinkedList.dll
+C:\Users\reeves\source\repos\Skiena\BSTToLinkedList\BSTToLinkedList\BSTToLinkedList\obj\Debug\BSTToLinkedList.pdb

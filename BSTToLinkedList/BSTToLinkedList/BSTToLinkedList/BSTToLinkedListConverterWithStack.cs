@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BSTToLinkedList
 {
-    public class BSTToLinkedListConverterWithStack
+    public class BSTToLinkedListConverterWithStack : IBSTToLinkedListConverter
     {
         public LinkedListNode Convert(TreeNode root)
         {
