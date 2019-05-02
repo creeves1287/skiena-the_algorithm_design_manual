@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\ReverseWordsTests.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\ReverseWordsTests.pdb
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\ReverseWords.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\ReverseWords.pdb
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\obj\Debug\ReverseWordsTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\obj\Debug\ReverseWordsTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\obj\Debug\ReverseWordsTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\obj\Debug\ReverseWordsTests.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWordsTests\obj\Debug\ReverseWordsTests.pdb

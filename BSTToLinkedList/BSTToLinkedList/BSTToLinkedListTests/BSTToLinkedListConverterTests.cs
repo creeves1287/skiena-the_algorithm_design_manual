@@ -21,6 +21,13 @@ namespace BSTToLinkedListTests
             RunTests(bSTToLinkedListConverter);
         }
 
+        [TestMethod]
+        public void BSTToLinkedListConverterFlattenRemakeTest()
+        {
+            IBSTToLinkedListConverter bSTToLinkedListConverter = new BSTToLinkedListConverterFlattenRemake();
+            RunTests(bSTToLinkedListConverter);
+        }
+
         private void RunTests(IBSTToLinkedListConverter bSTToLinkedListConverter)
         {
             NullTreeTest(bSTToLinkedListConverter);

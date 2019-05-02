@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWords\bin\Debug\ReverseWords.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWords\obj\Debug\ReverseWords.dll
+C:\Users\reeves\source\repos\Skiena\ReverseWords\ReverseWords\obj\Debug\ReverseWords.pdb
