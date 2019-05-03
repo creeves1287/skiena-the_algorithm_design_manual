@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\Skiena\ProductOfAllButSelf\ProductOfAllButSelf\bin\Debug\ProductOfAllButSelf.dll
+C:\Users\reeves\source\repos\Skiena\ProductOfAllButSelf\ProductOfAllButSelf\bin\Debug\ProductOfAllButSelf.pdb
+C:\Users\reeves\source\repos\Skiena\ProductOfAllButSelf\ProductOfAllButSelf\obj\Debug\ProductOfAllButSelf.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\Skiena\ProductOfAllButSelf\ProductOfAllButSelf\obj\Debug\ProductOfAllButSelf.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\Skiena\ProductOfAllButSelf\ProductOfAllButSelf\obj\Debug\ProductOfAllButSelf.dll
+C:\Users\reeves\source\repos\Skiena\ProductOfAllButSelf\ProductOfAllButSelf\obj\Debug\ProductOfAllButSelf.pdb
